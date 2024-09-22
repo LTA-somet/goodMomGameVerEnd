@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: a917f673a5a8c92468246215554f4186
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: groom_2_New@Idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.00012998644, y: 1.6426377, z: 0.022371793}
+      rotation: {x: -0.00000015695824, y: -2.4424902e-15, z: -2.7748986e-22, w: 1}
+      scale: {x: 0.265724, y: 0.265724, z: 0.265724}
+    - name: Eyes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.00012997414, y: -0.2566324, z: -0.047589827}
+      rotation: {x: -0.00000015695824, y: -2.4424902e-15, z: -2.7748986e-22, w: 1}
+      scale: {x: 0.265724, y: 0.265724, z: 0.265724}
+    - name: Male_Base
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.00000045498146, y: 0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Jacket_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Hair_Brown_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Rustic_Shoes_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Shirt_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Pants_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Jacket_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Hair_Orange_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shoes_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shirt_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Pants_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Hair_Blonde_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Start_Shoes_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Start_Hair_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_3_Brown
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_2_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_1_Brown
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_3_Orange
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_2_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_1_Brown
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: GM_Start_Dress
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Hair_Blonde_1_
+      parentName: GM_Start_Dress
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Start_Hair
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Nude_Hair
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_ComicBook_Hair_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful_Hair_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Hair_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Christmas_Hair_Orange
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Torned_Beach_Hair
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013207309, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Jacket_03
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Jacket_02
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Jacket_01
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Jacket_05
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000023841858, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Beach_Jacket_04
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000023841858, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Beach_Jacket_03
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000023841858, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Beach_Jacket_02
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000023841858, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Beach_Jacket_01
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000023841858, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Beach_Jacket_1
+      parentName: Male_Beach_Jacket
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Torned_Jacket
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_3_Blonde
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_2_Brown
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Mustache_1_Brown_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_3_Brown
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_2_Blonde_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beard_1_Brown_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013225194, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Pants
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_5_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_4_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_3_5
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_3_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_2_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_2_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_1_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_1_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants001_5
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants001_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants001_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants001_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants001_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_3_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_2_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants_1_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Pants
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Torned_Pants
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt001_5
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt001_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt001_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt001_1
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt001_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_5
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: -0.001749003, y: -0.0038460304, z: 0.023143912}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049868003, y: 0.049868003, z: 0.049868003}
+    - name: Male_Classic_Shirt_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_2_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_1_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt_11
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shirt_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shirt_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Torned_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Torned_Rustic_Shirt
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013223197, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Start_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_clr_agb_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Colorful2_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_5
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_4
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_3
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_2
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes_11
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.0000131774905, z: 0.023048472}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Classic_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Beach_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Male_Torned_Shoes
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: Foot
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0001299926, y: 0.000013203628, z: 0.023048472}
+      rotation: {x: 0.00000026027428, y: -0, z: -0, w: 1}
+      scale: {x: 0.049867, y: 0.049867, z: 0.049867}
+    - name: mixamorig:Hips
+      parentName: groom_2_New@Idle(Clone)
+      position: {x: 0.0015911796, y: 0.95799553, z: 0.0054722237}
+      rotation: {x: -0.0000000010950519, y: 0.0000000028721927, z: -0.000000004487796, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.11505664, z: -0.0049069277}
+      rotation: {x: -0.021309463, y: 0.0000000027677747, z: 0.0000000049293614, w: 0.99977297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: 1.18277966e-11, y: 0.13435479, z: 0.000000003027916}
+      rotation: {x: 0.0000000018626449, y: -0.000000005743944, z: -1.3267411e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -1.18277966e-11, y: 0.15354837, z: -0.000000003027916}
+      rotation: {x: 0.0000000018626449, y: -1.2811972e-10, z: 0.0000000030040928, w: 1}
+      scale: {x: 0.9999997, y: 0.9999999, z: 1.0000021}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.08239947, y: 0.15800537, z: -0.00040944992}
+      rotation: {x: -0.53686875, y: -0.45962194, z: 0.5393303, w: -0.4578673}
+      scale: {x: 1.0000063, y: 1.0000108, z: 1.000012}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -0, y: 0.16845256, z: 0}
+      rotation: {x: 0.06237273, y: 0.000007137656, z: -0.000112980604, w: -0.99805295}
+      scale: {x: 1.0000093, y: 1.0000159, z: 1.0000005}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0.000000003027916, y: 0.200089, z: -0.00000019378662}
+      rotation: {x: -0.0073442636, y: -0.000095255506, z: 0.00093118363, w: 0.99997264}
+      scale: {x: 1.0000036, y: 1.0000025, z: 1.0000024}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.000000006055832, y: 0.29653084, z: 0}
+      rotation: {x: -0.0068129045, y: 0.00013773925, z: 0.020219635, w: -0.99977237}
+      scale: {x: 1.000003, y: 1.0000002, z: 1.0000008}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0, y: 0.03315355, z: 0}
+      rotation: {x: -0.009430462, y: -0.00024059127, z: -0.025508286, w: -0.9996301}
+      scale: {x: 1.0000048, y: 1.0000048, z: 1.0000062}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: -0.000000009083748, y: 0.049089447, z: 0.00000019378662}
+      rotation: {x: 0.12210779, y: -0.0000007412162, z: 0.19943155, w: 0.97227407}
+      scale: {x: 1.0000002, y: 0.99999934, z: 1.000001}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.013984272, y: 0.027843406, z: -0.008562268}
+      rotation: {x: -0.057021838, y: -0.053209987, z: -0.2661607, w: 0.9607682}
+      scale: {x: 1.0000004, y: 0.9999996, z: 1.0000001}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: -0.0070472443, y: 0.044126473, z: -0.0073118596}
+      rotation: {x: -0.000000007450579, y: 0.0000000037252894, z: 9.313224e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.17274168, z: 0.000000009083748}
+      rotation: {x: 0.021309469, y: -0.0000000028504998, z: -0.000000001048297, w: 0.99977297}
+      scale: {x: 1, y: 0.99999994, z: 0.9999991}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.03632966, z: 0.0010225181}
+      rotation: {x: -0.000000009313225, y: 0.0000000043082844, z: 0.0000000015819511, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.2897113, z: 0.008154106}
+      rotation: {x: 0, y: -2.6975619e-19, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.08239947, y: 0.15802388, z: -0.0008466992}
+      rotation: {x: 0.53539145, y: -0.46087912, z: 0.5406944, w: 0.45672303}
+      scale: {x: 1.0000007, y: 1.000009, z: 1.0000044}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: 0.000000003027916, y: 0.16845255, z: 0}
+      rotation: {x: -0.06208507, y: 0.00041371578, z: -0.0066511026, w: 0.9980486}
+      scale: {x: 1.0000002, y: 0.9999977, z: 0.99999535}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -0, y: 0.20009089, z: 0}
+      rotation: {x: -0.005925849, y: -0.0000014274265, z: 0.00023523648, w: 0.9999825}
+      scale: {x: 1.0000108, y: 1.0000077, z: 1.0000037}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0, y: 0.29651025, z: 0}
+      rotation: {x: -0.03360769, y: 0.00010445714, z: -0.003106013, w: 0.99943036}
+      scale: {x: 1.0000066, y: 1.0000051, z: 1.0000062}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: -0, y: 0.1137791, z: 0}
+      rotation: {x: 0.052609716, y: -0.0005978461, z: -0.011347079, w: 0.99855053}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -0.000000006055832, y: 0.011421492, z: 0}
+      rotation: {x: 0.000000014901158, y: 0.000000015541442, z: -0.000000014922986, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000004}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: -0.00044941236, y: 0.017305968, z: -0.0011896561}
+      rotation: {x: -0.009573928, y: 0.003867867, z: 0.05989438, w: 0.99815136}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.0022602302, y: 0.013116738, z: -0.00048562928}
+      rotation: {x: -0.0000000037252903, y: -0.0000000018626447, z: -0.000000004889442, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.045253225, y: -0.06394978, z: -0.015675351}
+      rotation: {x: 0.00011623888, y: 0.0037643178, z: 0.9995166, w: -0.030860828}
+      scale: {x: 1.0000134, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -0.000000006055832, y: 0.41321266, z: 0}
+      rotation: {x: -0.02382817, y: 0.00053870014, z: -0.022596058, w: 0.9994606}
+      scale: {x: 1.0000048, y: 1.0000107, z: 1.0000006}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 0.000000003027916, y: 0.3500345, z: -0.000000006055832}
+      rotation: {x: 0.46143118, y: 0.022931391, z: -0.011931976, w: 0.8867994}
+      scale: {x: 1.0000087, y: 1.0000032, z: 1.000002}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -0, y: 0.17448626, z: 0}
+      rotation: {x: 0.31367067, y: -0.07133326, z: 0.023638558, w: 0.94655347}
+      scale: {x: 0.99999815, y: 1.0000775, z: 0.9999176}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -0, y: 0.06489761, z: 0}
+      rotation: {x: -1.951563e-18, y: -0.0000000037252894, z: -5.2386884e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.045253225, y: -0.06394978, z: -0.00044499387}
+      rotation: {x: 0.00008272105, y: -0.0026792067, z: 0.99952006, w: 0.030861357}
+      scale: {x: 0.9999896, y: 0.99998945, z: 1.0000069}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0, y: 0.4132067, z: 0.0000000026494265}
+      rotation: {x: -0.027452895, y: -0.0006207935, z: 0.022599606, w: 0.9993674}
+      scale: {x: 0.99999994, y: 1.0000026, z: 0.9999998}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -0.000000003027916, y: 0.35038802, z: 0}
+      rotation: {x: 0.46104223, y: -0.02348126, z: 0.012205245, w: 0.8869836}
+      scale: {x: 1.0000196, y: 1.000022, z: 0.9999936}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0, y: 0.16985309, z: -0.000000006055832}
+      rotation: {x: 0.3235517, y: 0.07050927, z: -0.024185449, w: 0.9432698}
+      scale: {x: 1.0000039, y: 0.9999127, z: 1.0000848}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: -0, y: 0.06429733, z: -7.56979e-10}
+      rotation: {x: 0, y: -0, z: -8.731149e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
